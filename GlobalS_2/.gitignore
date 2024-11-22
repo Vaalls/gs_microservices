@@ -1,0 +1,29 @@
+# Ignorar arquivos de sistema
+Thumbs.db
+.DS_Store
+
+# Ignorar arquivos temporários
+*.log
+*.tmp
+*.bak
+
+# Ignorar diretórios de build
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]ist/
+[Dd]ebug-AnyCPU/
+[Dd]ebug-x86/
+[Dd]ebug-x64/
+
+# Ignorar arquivos de dependências do NuGet
+/packages/
+
+# Ignorar arquivos gerados pelo Visual Studio
+.vs/
+.vscode/
+
+# Ignorar arquivos de configuração de usuário
+.vsconfig
+
+# Ignorar arquivos de build de Web (exemplo)
+wwwroot/
